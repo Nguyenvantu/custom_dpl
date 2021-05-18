@@ -1,9 +1,9 @@
 {
-  "name": "daypilot-pro-react",
-  "version": "2018.4.3469",
-  "description": "DayPilot Pro for JavaScript (React)",
+  "name": "cz-scheduler",
+  "version": "1.0.0",
+  "description": "Scheduler for Cz",
   "main": "daypilot-react.min.js",
-  "private": true,
+  "private": false,
   "files": [
     "daypilot-react.min.js"
   ],
@@ -12,5 +12,6 @@
     "react": ">=16.0.0",
     "react-dom": ">=16.0.0"
   },
-  "author": "Annpoint, s.r.o."
+  "author": "Cz",
+  "license": "ISC"
 }
