@@ -1,6 +1,6 @@
 {
   "name": "cz-scheduler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scheduler for Cz",
   "main": "daypilot-react.min.js",
   "private": false,
